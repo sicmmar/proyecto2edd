@@ -15,7 +15,6 @@ import objetos.*;
  * @author marianasic
  */
 public class grafomatriz {
-    //esta bonita prro >:v
     private int dimension;
     private nodomatriz raiz;
     private nodomatriz cabeza;
